@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.abadda69.chunk.css",
-    "main.js": "/static/js/main.96deb488.chunk.js",
-    "main.js.map": "/static/js/main.96deb488.chunk.js.map",
+    "main.js": "/static/js/main.d7246abd.chunk.js",
+    "main.js.map": "/static/js/main.d7246abd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7f219946.js",
     "runtime-main.js.map": "/static/js/runtime-main.7f219946.js.map",
     "static/css/2.743f1b15.chunk.css": "/static/css/2.743f1b15.chunk.css",
@@ -21,15 +21,15 @@
     "static/media/card-img1.4dfe9301.png": "/static/media/card-img1.4dfe9301.png",
     "static/media/card-img2.5728560e.png": "/static/media/card-img2.5728560e.png",
     "static/media/card-img3.b463242c.png": "/static/media/card-img3.b463242c.png",
-    "static/media/card1.2eb2603f.png": "/static/media/card1.2eb2603f.png",
-    "static/media/card2.f2caf645.png": "/static/media/card2.f2caf645.png",
-    "static/media/card3.09ebf726.png": "/static/media/card3.09ebf726.png",
+    "static/media/card2.9f485bc9.png": "/static/media/card2.9f485bc9.png",
     "static/media/App.css": "/static/media/menu7.1932cdb7.png",
     "static/media/new-img.10536829.jpeg": "/static/media/new-img.10536829.jpeg",
     "static/media/new-img1.1f6a2016.jpeg": "/static/media/new-img1.1f6a2016.jpeg",
     "static/media/pay-wht.b3f3361b.svg": "/static/media/pay-wht.b3f3361b.svg",
+    "static/media/photo_1.b464077f.jpg": "/static/media/photo_1.b464077f.jpg",
     "static/media/photo_1.e470a9bf.png": "/static/media/photo_1.e470a9bf.png",
     "static/media/photo_2.6ee774f2.png": "/static/media/photo_2.6ee774f2.png",
+    "static/media/photo_2.d3107d19.jpg": "/static/media/photo_2.d3107d19.jpg",
     "static/media/photo_3.2d1fef6a.png": "/static/media/photo_3.2d1fef6a.png",
     "static/media/roadmap-bg.206b3efa.png": "/static/media/roadmap-bg.206b3efa.png",
     "static/media/telegram.7fa733a4.svg": "/static/media/telegram.7fa733a4.svg",
@@ -40,6 +40,6 @@
     "static/css/2.743f1b15.chunk.css",
     "static/js/2.6020aafe.chunk.js",
     "static/css/main.abadda69.chunk.css",
-    "static/js/main.96deb488.chunk.js"
+    "static/js/main.d7246abd.chunk.js"
   ]
 }
